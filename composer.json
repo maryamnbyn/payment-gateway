@@ -1,0 +1,16 @@
+{
+    "name": "snappshop/payment-gateway",
+    "description": "This package provide IPG ,wallet ,snapppay and direct debit",
+    "autoload": {
+        "psr-4": {
+            "Snappshop\\PaymentGateway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maryam Nabiyan",
+            "email": "maryam.nbyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
